@@ -1,4 +1,4 @@
-package com.taurus.security.demo;
+package com.taurus.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
