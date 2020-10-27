@@ -1,4 +1,4 @@
-package com.taurus.security.browser;
+package com.taurus.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
